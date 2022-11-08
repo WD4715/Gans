@@ -15,10 +15,9 @@ But for anyone who want to use other models as a generator, I will affix other m
 First of all, I will explain the concept of vision transformer as a background knowledge of swin transformer and to understand what is the advancements of swin transformer.
 
   1. Vision Transformer
-  
-    ![vit_framework](https://user-images.githubusercontent.com/117700793/200579862-5262725d-146c-47d7-acfc-e6839aad3d28.PNG)
     
-    
+    ![vit_framework](https://user-images.githubusercontent.com/117700793/200580398-bf8cec9c-44c5-4ef5-899a-93ea7a1db527.PNG)
+
     This image is the framework of the ViT.
     
     
