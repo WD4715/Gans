@@ -16,7 +16,7 @@ First of all, I will explain the concept of vision transformer as a background k
 
   1. Vision Transformer
   
-    ![image](https://user-images.githubusercontent.com/117700793/200579256-b79a5053-6c22-4473-826d-5573fcbe2e59.png)
+    ![vit_framework](https://user-images.githubusercontent.com/117700793/200579862-5262725d-146c-47d7-acfc-e6839aad3d28.PNG)
     
     This image is the framework of the ViT.
     
