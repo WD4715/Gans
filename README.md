@@ -18,6 +18,7 @@ First of all, I will explain the concept of vision transformer as a background k
   
     ![vit_framework](https://user-images.githubusercontent.com/117700793/200579862-5262725d-146c-47d7-acfc-e6839aad3d28.PNG)
     
+    
     This image is the framework of the ViT.
     
     
