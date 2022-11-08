@@ -12,6 +12,13 @@ There are many models to use as a generator. But we can recognize the fact that 
 
 But for anyone who want to use other models as a generator, I will affix other models in "Generators.py" 
 
+First of all, I will explain the concept of vision transformer as a background knowledge of swin transformer and to understand what is the advancements of swin transformer.
+
+  1. Vision Transformer
+    
+    
+  
+  2. Swin Transformer
 
 
 ### References : 
