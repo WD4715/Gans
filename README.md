@@ -6,7 +6,15 @@ At first, I will explain the Networks.
 
 And After that, I  will tell how to use that code and modify the hyperparameters.
 
-## References : 
+## Swin Transformer
+
+There are many models to use as a generator. But we can recognize the fact that a variant of vision transformer models is on the top of ranks. Thus I want to use the "Swin Transformer" as a generator. 
+
+But for anyone who want to use other models as a generator, I will affix other models in "Generators.py" 
+
+
+
+### References : 
 [Swin Unet](https://arxiv.org/pdf/2105.05537.pdf)
 
 [Swin transformer](https://arxiv.org/pdf/2103.14030v1.pdf)
