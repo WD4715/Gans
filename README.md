@@ -1,4 +1,5 @@
 # GAN  
+![vit_framework](https://user-images.githubusercontent.com/117700793/200703460-88f86798-f406-466f-9091-38c5909b4673.PNG)
 
 I used Gan using Generator, Swin Unet, and Discriminator, Resnet50.
 
