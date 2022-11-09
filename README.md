@@ -28,13 +28,13 @@ step1. Patch
 Patching is like this. One image data is split by 9 components.
 And We will use this one a kind of tokens after the process of embedding.
     
-    Step2. Embedding
+Step2. Embedding
     
 ![PatchSpliting+Position_Embedding](https://user-images.githubusercontent.com/117700793/200587311-8ce4cbe1-77bd-4e0a-8d5e-93782cb0cbbd.PNG)
     
 Embedding is like this. After patching, Slope parameters is multiplied at each patches and after that the constant parameter is added on the result of the Linear projection. The final process of adding  is called of Position Embedding. Because this process is a kind of notification of image patch's position.
     
-    Step3. Transformer Encoder
+Step3. Transformer Encoder
     
 Embedding output is input of transformer's input.
     
